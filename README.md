@@ -1,7 +1,7 @@
 # fisheye_camera_dewarpper
 dewarp fisheye camera for tractor.
 
-## select inner and outer
+## select inner (green) and outer (blue).
 ![screenshot](https://github.com/hahakid/fisheye_camera_dewarpper/blob/main/1.jpg)
 
 
